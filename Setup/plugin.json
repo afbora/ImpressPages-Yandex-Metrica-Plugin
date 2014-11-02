@@ -1,0 +1,15 @@
+{
+    "title": "Yandex Metrica",
+    "version": "1.02",
+    "name": "YandexMetrica",
+    "description": "Yandex metrica plugin",
+    "author": "PixelTurk",
+    "options": [
+        {
+            "label": "Tracking ID",
+            "name": "trackingId",
+            "type": "text",
+            "default": ""
+        }
+    ]
+}
